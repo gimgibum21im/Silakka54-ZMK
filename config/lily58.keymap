@@ -173,6 +173,11 @@
             bindings = <&kp LEFT_GUI>;
             key-positions = <51 56>;
         };
+
+        cLayer {
+            bindings = <&to 1>;
+            key-positions = <53 54>;
+        };
     };
 
     keymap {
